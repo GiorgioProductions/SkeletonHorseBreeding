@@ -50,6 +50,7 @@ public class SkeletonHorseBreedListener implements Listener {
                                     skeletonHorse.getWorld().strikeLightningEffect(babySkeletonHorseSpawnLocation);
                                     SkeletonHorse babySkeletonHorse = (SkeletonHorse) skeletonHorse.getWorld().spawnEntity(babySkeletonHorseSpawnLocation,EntityType.SKELETON_HORSE);
                                     babySkeletonHorse.setBaby();
+                                    babySkeletonHorse.setTamed(true);
                                     babySkeletonHorse.setLoveModeTicks(0);
                                     skeletonHorse.setLoveModeTicks(0);
                                     possibleBreed.setLoveModeTicks(0);
