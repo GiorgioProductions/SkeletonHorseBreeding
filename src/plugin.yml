@@ -1,0 +1,6 @@
+name: SkeletonHorseBreeding
+description: Breed skeleton horses!
+author: Giorgio Productions
+version: 1.0
+main: es.giorgioproductions.skeletonhorsebreeding.Main
+api-version: 1.16
