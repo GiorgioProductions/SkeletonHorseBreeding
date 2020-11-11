@@ -1,2 +1,2 @@
 # SkeletonHorseBreeding
- Breed Skeleton Horses in Minecraft!
+ Breed Skeleton Horses with bone meal!
